@@ -36,6 +36,6 @@ function multiply(a, b){
 * [JS basics](https://learn.javascript.ru/)
 ---
 ### Languages:
-* Russian - native
-* Ukrainian - native
+* Russian - native speaker
+* Ukrainian - native speaker
 * English - B1 ()
