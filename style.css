@@ -1,4 +1,6 @@
-h1 {
-  size: 100px;
-  color: blue;
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 400px;
+  margin: 0 auto;
+  background-color: rgb(193, 236, 255);
 }
